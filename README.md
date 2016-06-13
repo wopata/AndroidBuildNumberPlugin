@@ -9,7 +9,7 @@ buildscript {
     }
   }
   dependencies {
-    classpath "gradle.plugin.com.aardouin.gradle:android-buildnumber-plugin:1.0-SNAPSHOT"
+    classpath "gradle.plugin.com.aardouin.gradle:android-buildnumber-plugin:1.1-SNAPSHOT"
   }
 }
 
